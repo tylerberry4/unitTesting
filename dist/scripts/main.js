@@ -15,7 +15,7 @@
 //  address: "712 Tucker Street";
 // };
 
-var person = {name:"Tyler", address:"712_Tucker_Street"};
+// var person = {name:"Tyler", address:"712_Tucker_Street"};
 
 
 
